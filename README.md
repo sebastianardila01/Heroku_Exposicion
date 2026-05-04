@@ -1,2 +1,2 @@
 # Heroku_Exposicion
-expo_sobre_heroku
+Presentación sobre Heroku - Sebastián David
